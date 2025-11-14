@@ -11,7 +11,7 @@ This repository contains code for training a GAN on the MNIST dataset.
   TensorBoard event files for monitoring training progress.
 
 - **Generated Images:** [Google Drive folder](https://drive.google.com/drive/folders/1A1vWa5t-xRO34sg3_JhoOWbdW1MjRbHF?usp=sharing)  
-  Sample images generated during training.
+  Sample images generated after training.
 
 ## Usage
 
